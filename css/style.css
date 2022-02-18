@@ -1,0 +1,26 @@
+/*class-> .text-red{}
+id-> #id-bilgisi {} */
+body{
+    background-color: black;
+    color: whitesmoke;
+    
+    }
+
+    header{
+        background-color:#3F3351;
+    color: whitesmoke;
+
+
+    }
+
+
+.text-purple{
+color:rebeccapurple;
+
+}
+.text-white{
+    color:white;
+    
+    }
+
+    header
